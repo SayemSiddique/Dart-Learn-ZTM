@@ -1,8 +1,15 @@
 void main() {
-  String name = 'Andrea';
-  int age = 36;
-  double height = 1.84;
-  bool likesDart = true;
+  String name = 'Andrea'; // String variable
+  // String is a sequence of characters, it can contain letters, numbers, and symbols.
+
+  int age = 36; // int variable
+  // int is a whole number, it can be positive or negative, but it cannot contain decimal points.
+
+  double height = 1.84; // double variable
+  // double is a number that can contain decimal points, it is used for more precise values.
+
+  bool likesDart = true; // bool variable
+  // bool is a boolean value, it can be either true or false.
 
   print(name);
   print(age);
